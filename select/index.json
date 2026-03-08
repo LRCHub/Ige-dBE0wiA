@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Window",
+  "base_artist": "Galdive",
+  "createdAt": "2026-03-08T06:46:53.705412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "At My Window",
+      "artist": "Townes Van Zandt",
+      "has_synced": true,
+      "path": "select/01_At_My_Window_Townes_Van_Zandt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Window Up Above",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/02_The_Window_Up_Above_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From The Window of My Room",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/03_From_The_Window_of_My_Room_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jumped Out the Window",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Jumped_Out_the_Window_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nan You're a Window Shopper",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/05_Nan_You're_a_Window_Shopper_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Window Shoppin",
+      "artist": "Lloyd",
+      "has_synced": true,
+      "path": "select/06_Never_Window_Shoppin_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Window",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/07_The_Window_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Window Blues",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/08_Window_Blues_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pale Horses - Gui Boratto's Last Window Remix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/09_Pale_Horses_-_Gui_Boratto's_Last_Window_Remix_Moby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pale Horses (Gui Boratto's Last Window Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/10_Pale_Horses_(Gui_Boratto's_Last_Window_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Secret Window",
+      "artist": "Moiré",
+      "has_synced": false,
+      "path": "select/11_Secret_Window_Moiré.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Out My Window (feat. Ian Isiah)",
+      "artist": "Junglepussy feat. Ian Isiah",
+      "has_synced": true,
+      "path": "select/12_Out_My_Window_(feat._Ian_Isiah)_Junglepussy_feat._Ian_Isiah.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Out My Window (feat. Ian Isiah)",
+      "artist": "Ian Isiah & Junglepussy",
+      "has_synced": true,
+      "path": "select/13_Out_My_Window_(feat._Ian_Isiah)_Ian_Isiah_&_Junglepussy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flowers In The Window",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/14_Flowers_In_The_Window_Travis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flowers In The Window",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/15_Flowers_In_The_Window_Travis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Train Went Past the Window",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/16_A_Train_Went_Past_the_Window_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Peepin Out The Window (with Future & Bslime)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/17_Peepin_Out_The_Window_(with_Future_&_Bslime)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Peepin Out The Window (feat. Bslime & Future)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/18_Peepin_Out_The_Window_(feat._Bslime_&_Future)_Young_Thug.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Window",
+      "artist": "Galdive",
+      "has_synced": false,
+      "path": "select/pl_01_Window_Galdive.txt"
+    }
+  ]
+}
